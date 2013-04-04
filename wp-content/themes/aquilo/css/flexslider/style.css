@@ -1,0 +1,202 @@
+/*general*/
+#main-flexslider .container 							{padding:0;
+														background:0;}
+						
+#main-flexslider ul li.slide .slide-img 				{-moz-border-radius:0;
+														-webkit-border-radius:0;
+														border-radius:0;}
+												
+#main-flexslider ul li.slide a.slide-link .slide-img	{max-width:100%;}											
+												
+
+
+/*remove margin from list*/
+#main-flexslider ul li.slide	{margin:0;position:relative;}
+
+/* FlexSlider Default Theme*/
+#main-flexslider 				{margin:0!important; 
+								background:#fff; 
+								border:0; 
+								position: relative; 
+								-webkit-border-radius:0; 
+								-moz-border-radius:0; 
+								-o-border-radius:0; 
+								border-radius:0; 
+								box-shadow:none; 
+								-webkit-box-shadow:none; 
+								-moz-box-shadow:none; 
+								-o-box-shadow:none; 
+								zoom: 1;
+								width:1100px;
+								max-width:100%;}
+
+
+.flex-viewport 					{max-height:2000px; 
+								-webkit-transition:none; 
+								-moz-transition:none; 
+								transition:none;}
+								
+								
+.loading .flex-viewport 		{max-height:300px;}
+#main-flexslider .slides 		{zoom:1;}
+
+
+
+
+
+/* Direction Nav */
+#main-flexslider .flex-direction-nav li			{margin:0;}
+
+#main-flexslider .flex-direction-nav			{display:block;
+												width:89px;
+												height:44px;
+												position:absolute;
+												right:0;
+												bottom:0;}	
+																		
+#main-flexslider .flex-direction-nav a 			{width:44px;
+												height:44px;
+												background: url(images/slider-nav-bg.png) no-repeat left top; 
+												top:0;
+												margin:0; 
+												cursor:pointer; 
+												text-indent:-9999px; 
+												opacity:1!important; 
+												-webkit-transition:none;}
+												
+#main-flexslider .flex-direction-nav	{}
+#main-flexslider .flex-direction-nav .flex-next 		{background-position:right top!important;
+														right:0!important}
+														
+#main-flexslider .flex-direction-nav .flex-prev 		{left:0!important;
+														margin-right:1px;}
+
+#main-flexslider .flex-direction-nav a:hover			{background-position:left bottom;}
+#main-flexslider .flex-direction-nav .flex-next:hover	{background-position:right bottom!important;}
+
+
+
+
+
+/* Control Nav */
+#main-flexslider .flex-control-nav				{display:block;
+												width:100%;
+												position:absolute;
+												bottom:10px;
+												right:20px;
+												text-align:center;}
+
+#main-flexslider .flex-control-paging li a 		{text-indent:-9999px;
+												overflow:hidden;
+												background:url(images/caption-bg.png);
+												opacity:0.6;}
+												
+#main-flexslider .flex-control-paging li a:hover,
+#main-flexslider .flex-control-paging li a.flex-active			{background:url(images/caption-bg.png);
+																opacity:1;}
+
+
+
+
+/*caption style*/
+#main-flexslider ul li .caption						{position:absolute;
+													left:0;
+													width:96%;
+													color:#4a4a4a;
+													padding:0 2%;}
+
+#main-flexslider ul li .caption .slide-title		{line-height:normal!important;
+													margin:0 0 10px 0;
+													padding:0;
+													color:#4a4a4a;
+													float:left;}
+												
+#main-flexslider ul li .caption .slide-sub-title	{line-height:normal!important;
+													margin:0 0 10px 0;
+													padding:0;
+													color:#4a4a4a;
+													float:left;}
+
+#main-flexslider ul li .caption .slide-desc			{padding:0;}
+
+
+#main-flexslider ul li .caption .slide-link			{line-height:37px;}
+
+
+/*caption background*/
+#main-flexslider ul li .caption-bg .slide-title,
+#main-flexslider ul li .caption-bg .slide-sub-title,
+#main-flexslider ul li .caption-bg .slide-desc				{background:url(images/caption-bg.png);
+															color:#fff!important;}
+
+
+#main-flexslider ul li .caption-bg .slide-title,
+#main-flexslider ul li .caption-bg .slide-sub-title			{padding:3px 15px;
+															margin-bottom:5px;}
+															
+#main-flexslider ul li .caption-bg .slide-desc				{padding:15px;}
+
+
+
+#main-flexslider ul li .caption-bg .slide-desc h1,
+#main-flexslider ul li .caption-bg .slide-desc h2,
+#main-flexslider ul li .caption-bg .slide-desc h3,
+#main-flexslider ul li .caption-bg .slide-desc h4,
+#main-flexslider ul li .caption-bg .slide-desc h5,
+#main-flexslider ul li .caption-bg .slide-desc h6			{color:#fff;}
+
+
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	Thumbnail control layout
+/*-----------------------------------------------------------------------------------*/
+/* Direction Nav */
+#main-flexslider.layout-thumbnail-control .flex-direction-nav				{bottom:56%;
+																			width:100%;}	
+																		
+#main-flexslider.layout-thumbnail-control .flex-direction-nav a				{position:absolute;}
+
+#main-flexslider.layout-thumbnail-control .flex-direction-nav .flex-next 	{float:right;
+																			right:0;
+																			background-position:0 -999px!important;}
+														
+#main-flexslider.layout-thumbnail-control .flex-direction-nav .flex-prev	{background-position:0 -999px!important;}
+
+
+#main-flexslider.layout-thumbnail-control:hover .flex-direction-nav .flex-next:hover	{background-position:right top!important;}
+#main-flexslider.layout-thumbnail-control:hover .flex-direction-nav .flex-prev:hover	{background-position:left top!important;}
+
+
+
+
+/*contarol nav*/
+.layout-thumbnail-control .flex-control-thumbs 					{margin:0!important;
+																bottom:0!important;
+																right:0!important;
+																position:relative!important; 
+																overflow: hidden;
+																background:#f5f5f5;
+																padding:3px 0;}
+																
+.layout-thumbnail-control .flex-control-thumbs li 				{margin:3px!important;}
+																
+.layout-thumbnail-control .flex-control-thumbs img 				{opacity:.5;
+																cursor:pointer;
+																padding:3px;
+																background:#fff;}
+																
+.layout-thumbnail-control .flex-control-thumbs img:hover 		{opacity:1;
+																-webkit-transition: all 0.5s ease; 
+																-moz-transition: all 0.5s ease; 
+																-o-transition: all 0.5s ease;}
+
+.layout-thumbnail-control .flex-control-thumbs .flex-active 	{opacity:1;
+																background-color:#abc53e;}
+
+
+

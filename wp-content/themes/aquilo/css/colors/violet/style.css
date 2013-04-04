@@ -1,0 +1,66 @@
+/*-----------------------------------------------------------------------------------*/
+/*	Colors
+/*-----------------------------------------------------------------------------------*/
+/*links*/
+a								{color:#8f7686;}
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	Background colors
+/*-----------------------------------------------------------------------------------*/
+/*form buttons*/
+input[type=submit],
+#navigation .sf-menu li:hover, 
+#navigation .sf-menu li.sfHover,
+#navigation .sf-menu li.sfHover a,
+#navigation .sf-menu li.current-menu-item a,
+#navigation .sf-menu a:focus, 
+#navigation .sf-menu a:hover, 
+#navigation .sf-menu a:active,
+#navigation .sf-menu li.selected a,
+#navigation .current-menu-parent a,
+#navigation .sf-menu li ul,
+#page-heading .wrap,
+.post-meta-tags ul.tags-list li a:hover,
+.post-meta-tags ul.tags-list li a:active,
+.post-meta-tags ul.tags-list li a:focus,
+.project-nav-prev a,
+.project-nav-next a,
+.project-nav-back-to-portfolio a,
+.accordion .ui-state-default .ui-icon,
+.accordion .ui-state-active .ui-icon,
+ul.ui-tabs-nav li.ui-state-active,
+.button-big,
+.button-small,
+.readmore,
+.dropcap-style1,
+.highlight1,
+ul.list-menu1 li.active a,
+ul.list-menu1 li a:hover,
+ul.list-menu1 li a:active,
+ul.list-menu1 li a:focus,
+.zoom-img,
+.zoom-video,
+.zoom-post,
+ul#portfolio-filter li a:hover,
+ul#portfolio-filter li a:active,
+ul#portfolio-filter li a:focus,
+.tagcloud a:hover,
+.tagcloud a:active,
+.tagcloud a:focus,
+.layout-thumbnail-control .flex-control-thumbs .flex-active			{background-color:#8c5b7b;}
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	Border colors
+/*-----------------------------------------------------------------------------------*/
+.ui-tabs-nav,
+blockquote,
+.portfolio-item-bg:hover,
+.portfolio-wrap-col-1 .portfolio-item-details:hover					{border-color:#8c5b7b;}

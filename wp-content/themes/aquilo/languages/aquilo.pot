@@ -1,0 +1,3889 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aquilo WordPress Theme\n"
+"POT-Creation-Date: 2012-08-13 19:48+0100\n"
+"PO-Revision-Date: 2013-02-10 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: marbol2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+
+
+
+
+#: 404.php:20
+msgid "We are sorry, but the page you requested could not be found."
+msgstr ""
+
+
+
+
+#: comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+
+
+
+#: comments.php:24
+msgid "One comment"
+msgstr ""
+
+
+
+
+#: comments.php:24
+msgid "%1$s comments"
+msgstr ""
+
+
+
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+
+
+
+#: comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+
+
+
+#: comments.php:67
+msgid "Send Comment"
+msgstr ""
+
+
+
+
+#: comments.php:71
+msgid "Message:"
+msgstr ""
+
+
+
+
+#: comments.php:73
+msgid "Name:"
+msgstr ""
+
+
+
+
+#: comments.php:74
+msgid "Email:"
+msgstr ""
+
+
+
+
+#: comments.php:75
+msgid "Website:"
+msgstr ""
+
+
+
+
+#: header.php:183
+msgid "Category: %s"
+msgstr ""
+
+
+
+
+#: header.php:186
+msgid "Tag: %s"
+msgstr ""
+
+
+
+
+#: header.php:190
+msgid "Author: %s"
+msgstr ""
+
+
+
+
+#: header.php:193
+msgid "Daily Archives: %s"
+msgstr ""
+
+
+
+
+#: header.php:196
+msgid "Monthly Archives: %s"
+msgstr ""
+
+
+
+
+#: header.php:199
+msgid "Yearly Archives: %s"
+msgstr ""
+
+
+
+
+#: header.php:205
+msgid "Archives"
+msgstr ""
+
+
+
+
+#: header.php:211
+msgid "Search Results For: %s"
+msgstr ""
+
+
+
+
+#: page.php:45
+msgid "Pages:"
+msgstr ""
+
+
+
+
+#: loop-portfolioFilter.php:52
+msgid "All"
+msgstr ""
+
+
+
+
+#: loop-archive.php:40 
+#: loop-archivePortfolio.php:47 
+#: loop-portfolio.php:77
+#: loop-portfolioFilter.php:85 
+#: loop-search.php:19 
+#: loop-single.php:36
+#: loop-singlePortfolio.php:55 
+#: loop.php:44
+#: framework/includes/blocks/related_posts.php:80
+#: framework/includes/blocks/related_projects.php:99
+msgid "Edit Post"
+msgstr ""
+
+
+
+
+#: loop-archive.php:53 
+#: loop-single.php:48 
+#: loop.php:57
+msgid "by"
+msgstr ""
+
+
+
+
+#: loop-archive.php:58 
+#: loop-single.php:53 
+#: loop.php:62
+msgid "in"
+msgstr ""
+
+
+
+
+#: loop-archive.php:63 
+#: loop-single.php:58 
+#: loop.php:67
+msgid "0 comments"
+msgstr ""
+
+
+
+
+#: loop-archive.php:63 
+#: loop-single.php:58 
+#: loop.php:67
+msgid "1 comment"
+msgstr ""
+
+
+
+
+#: loop-archive.php:63 
+#: loop-single.php:58 
+#: loop.php:67
+msgid "% comments"
+msgstr ""
+
+
+
+
+#: loop-archive.php:63 
+#: loop-single.php:58 
+#: loop.php:67
+msgid "comments-link"
+msgstr ""
+
+
+
+
+#: loop-archive.php:63 
+#: loop-single.php:58 
+#: loop.php:67
+msgid "Comments are"
+msgstr ""
+
+
+
+
+#: loop-archive.php:90 
+#: loop-single.php:82 
+#: loop.php:93
+msgid "<li class=\"tags-text\">Tags:</li>"
+msgstr ""
+
+
+
+
+#: loop-archive.php:106 
+#: loop-archivePortfolio.php:98 
+#: loop-portfolio.php:107
+#: loop-portfolioFilter.php:150 
+#: loop.php:106
+#: framework/theme_widgets/recent_posts.php:183
+msgid "Not Found"
+msgstr ""
+
+
+
+
+#: loop-archive.php:107 
+#: loop-archivePortfolio.php:99 
+#: loop-portfolio.php:108
+#: loop-portfolioFilter.php:151 
+#: loop.php:107
+#: framework/theme_widgets/recent_posts.php:184
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+
+
+
+#: loop-search.php:36
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+
+
+
+#: loop-single.php:89
+msgid "Social Shares:"
+msgstr ""
+
+
+
+
+#: loop-singlePortfolio.php:60
+msgid "&larr; Prev"
+msgstr ""
+
+
+
+
+#: loop-singlePortfolio.php:61
+msgid "Back to portfolio"
+msgstr ""
+
+
+
+
+#: loop-singlePortfolio.php:62
+msgid "Next &rarr;"
+msgstr ""
+
+
+
+
+#: loop-archive.php:124
+#: loop-archivePortfolio.php:118
+#: loop-portfolio.php:126
+#: loop-portfolioFilter.php:171
+#: loop-search.php:51
+#: loop-single.php:153
+#: loop.php:122
+msgid "<span class="pagination-prev">&larr; Older posts</span>"
+msgstr ""
+
+
+
+
+#: loop-archive.php:125
+#: loop-archivePortfolio.php:119
+#: loop-portfolio.php:127
+#: loop-portfolioFilter.php:172
+#: loop-search.php:52
+#: loop-single.php:154
+#: loop.php:123
+msgid "<span class="pagination-next">Newer posts &rarr;</span>"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/comment.php:15
+msgid "Pingback:"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/comment.php:15
+#: framework/helper_functions/comment.php:49
+msgid "Edit"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/comment.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+
+
+
+#: framework/helper_functions/comment.php:48
+msgid "Reply"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/menus.php:11
+msgid "Main Navigation"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/menus.php:12
+msgid "Footer Navigation"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/other_small_functions.php:96
+msgid "Project Types:"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/other_small_functions.php:99
+msgid "Project Skills:"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/other_small_functions.php:443
+msgid "Search for:"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:19
+#: framework/theme_options/options_blog.php:314
+#: framework/theme_options/options_utility.php:71
+#: framework/theme_plugins/meta-box/metabox-usage.php:187
+msgid "Blog Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:29
+#: framework/theme_options/options_blog.php:315
+#: framework/theme_options/options_utility.php:72
+#: framework/theme_plugins/meta-box/metabox-usage.php:188
+msgid "Home Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:39
+#: framework/theme_options/options_blog.php:316
+#: framework/theme_options/options_utility.php:73
+#: framework/theme_plugins/meta-box/metabox-usage.php:189
+msgid "Portfolio Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:49
+#: framework/theme_options/options_blog.php:317
+#: framework/theme_options/options_utility.php:74
+#: framework/theme_plugins/meta-box/metabox-usage.php:190
+msgid "Page 1 Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:59
+#: framework/theme_options/options_blog.php:318
+#: framework/theme_options/options_utility.php:75
+#: framework/theme_plugins/meta-box/metabox-usage.php:191
+msgid "Page 2 Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:70
+#: framework/theme_options/options_blog.php:319
+#: framework/theme_options/options_utility.php:76
+#: framework/theme_plugins/meta-box/metabox-usage.php:192
+msgid "Page 3 Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:82
+#: framework/theme_options/options_blog.php:320
+#: framework/theme_options/options_utility.php:78
+#: framework/theme_plugins/meta-box/metabox-usage.php:193
+msgid "Contact Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:93
+#: framework/theme_options/options_blog.php:321
+#: framework/theme_options/options_utility.php:79
+#: framework/theme_plugins/meta-box/metabox-usage.php:194
+msgid "Search Sidebar"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:103
+msgid "Bottom A"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:113
+msgid "Bottom B"
+msgstr ""
+
+
+
+
+#: framework/helper_functions/register_sidebars.php:123
+msgid "Bottom C"
+msgstr ""
+
+
+
+
+#: framework/includes/related_posts.php:46
+#: framework/theme_options/options_blog.php:147
+msgid "Related Posts"
+msgstr ""
+
+
+
+
+#: framework/includes/related_projects.php:46
+#: framework/theme_options/options_portfolio.php:69
+#: framework/theme_options/options_portfolio.php:74
+msgid "Related Projects"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:16
+#: framework/theme_options/interface.php:31
+msgid "Portfolio"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:17
+#: framework/post_types/portfolio_post_type.php:68
+msgid "Project"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:30
+#: framework/post_types/portfolio_post_type.php:71
+msgid "Skills"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:31
+msgid "Skill"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:39
+#: framework/post_types/portfolio_post_type.php:72
+msgid "Project Types"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:40
+msgid "Project Type"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:69
+#: framework/theme_plugins/meta-box/metabox-usage.php:223
+#: framework/theme_plugins/meta-box/metabox-usage.php:229
+msgid "Thumbnail"
+msgstr ""
+
+
+
+
+#: framework/post_types/portfolio_post_type.php:86
+msgid "No description."
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:17
+#: framework/theme_options/options_slider.php:62
+msgid "Slide"
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:16
+msgid "Slides"
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:31
+msgid "Ctegories"
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:32
+#: framework/post_types/slides_post_type.php:58
+msgid "Category"
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:56
+#: framework/theme_options/options_general.php:20
+#: framework/theme_options/options_general.php:26
+#: framework/theme_plugins/shortcodes-mce/layout.php:114
+msgid "Image"
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:57
+msgid "Link"
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:70
+msgid "No link."
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:27
+#: framework/theme_options/options_fonts.php:9
+#: framework/theme_options/options_portfolio.php:9
+#: framework/theme_options/options_slider.php:11
+#: framework/theme_options/options_style.php:9
+#: framework/theme_plugins/meta-box/metabox-usage.php:41
+#: framework/theme_plugins/meta-box/metabox-usage.php:746
+msgid "General"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:68
+msgid "Default Field"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:69
+msgid "This is a default description."
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:105
+msgid "Theme options updated."
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:144
+msgid "Save Changes"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:131
+msgid "More Themes"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:131
+msgid "Support"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:28
+#: framework/theme_plugins/breadcrumb.php:37
+msgid "Home"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:29
+#: framework/theme_plugins/meta-box/metabox-usage.php:98
+#: framework/theme_plugins/meta-box/metabox-usage.php:105
+msgid "Slider"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:30
+msgid "Blog"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:32
+#: framework/theme_options/options_blog.php:139
+#: framework/theme_options/options_blog.php:337
+#: framework/theme_options/options_portfolio.php:60
+#: framework/theme_options/options_portfolio.php:138
+msgid "Style"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:33
+msgid "Fonts"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:34
+msgid "Utility"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:35
+msgid "Extra"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:52
+msgid "Theme Options"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:9
+msgid "Blog Page"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:14
+msgid "Exclude Categories Id"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:21
+msgid "Post Count"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:28
+msgid "Excerpt Content Type"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:39
+msgid "Excerpt Word Count"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:46
+#: framework/theme_options/options_utility.php:109
+msgid "Read More Text"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:47
+#: framework/theme_options/options_utility.php:110
+msgid "Read more..."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:33
+#: framework/theme_options/options_blog.php:58
+#: framework/theme_options/options_blog.php:69
+#: framework/theme_options/options_blog.php:87
+#: framework/theme_options/options_blog.php:98
+#: framework/theme_options/options_blog.php:109
+#: framework/theme_options/options_blog.php:152
+#: framework/theme_options/options_blog.php:175
+#: framework/theme_options/options_blog.php:186
+#: framework/theme_options/options_blog.php:204
+#: framework/theme_options/options_blog.php:215
+#: framework/theme_options/options_blog.php:226
+#: framework/theme_options/options_blog.php:237
+#: framework/theme_options/options_blog.php:248
+#: framework/theme_options/options_blog.php:259
+#: framework/theme_options/options_blog.php:272
+#: framework/theme_options/options_blog.php:303
+#: framework/theme_options/options_blog.php:350
+#: framework/theme_options/options_blog.php:361
+#: framework/theme_options/options_blog.php:379
+#: framework/theme_options/options_blog.php:390
+#: framework/theme_options/options_blog.php:401
+#: framework/theme_options/options_extra.php:19
+#: framework/theme_options/options_fonts.php:21
+#: framework/theme_options/options_fonts.php:83
+#: framework/theme_options/options_fonts.php:240
+#: framework/theme_options/options_fonts.php:351
+#: framework/theme_options/options_general.php:64
+#: framework/theme_options/options_portfolio.php:79
+#: framework/theme_options/options_portfolio.php:90
+#: framework/theme_options/options_portfolio.php:164
+#: framework/theme_options/options_slider.php:102
+#: framework/theme_options/options_slider.php:114
+#: framework/theme_options/options_utility.php:19
+#: framework/theme_options/options_utility.php:30
+#: framework/theme_options/options_utility.php:41
+#: framework/theme_options/options_utility.php:60
+#: framework/theme_options/options_utility.php:133
+#: framework/theme_options/options_utility.php:144
+#: framework/theme_options/options_utility.php:155
+#: framework/theme_plugins/meta-box/metabox-usage.php:53
+#: framework/theme_plugins/meta-box/metabox-usage.php:64
+#: framework/theme_plugins/meta-box/metabox-usage.php:75
+#: framework/theme_plugins/meta-box/metabox-usage.php:109
+#: framework/theme_plugins/meta-box/metabox-usage.php:176
+#: framework/theme_plugins/meta-box/metabox-usage.php:234
+#: framework/theme_plugins/meta-box/metabox-usage.php:272
+#: framework/theme_plugins/meta-box/metabox-usage.php:304
+#: framework/theme_plugins/meta-box/metabox-usage.php:388
+#: framework/theme_plugins/meta-box/metabox-usage.php:418
+#: framework/theme_plugins/meta-box/metabox-usage.php:429
+#: framework/theme_plugins/meta-box/metabox-usage.php:458
+#: framework/theme_plugins/meta-box/metabox-usage.php:469
+#: framework/theme_plugins/meta-box/metabox-usage.php:786
+#: framework/theme_plugins/meta-box/metabox-usage.php:825
+#: framework/theme_plugins/meta-box/metabox-usage.php:849
+#: framework/theme_widgets/recent_posts.php:377
+#: framework/theme_widgets/recent_posts.php:387
+#: framework/theme_widgets/recent_posts.php:397
+#: framework/theme_widgets/recent_posts.php:406
+#: framework/theme_widgets/recent_posts.php:455
+msgid "Yes"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:34
+#: framework/theme_options/options_blog.php:59
+#: framework/theme_options/options_blog.php:70
+#: framework/theme_options/options_blog.php:88
+#: framework/theme_options/options_blog.php:99
+#: framework/theme_options/options_blog.php:110
+#: framework/theme_options/options_blog.php:153
+#: framework/theme_options/options_blog.php:176
+#: framework/theme_options/options_blog.php:187
+#: framework/theme_options/options_blog.php:205
+#: framework/theme_options/options_blog.php:216
+#: framework/theme_options/options_blog.php:227
+#: framework/theme_options/options_blog.php:238
+#: framework/theme_options/options_blog.php:249
+#: framework/theme_options/options_blog.php:260
+#: framework/theme_options/options_blog.php:273
+#: framework/theme_options/options_blog.php:304
+#: framework/theme_options/options_blog.php:351
+#: framework/theme_options/options_blog.php:362
+#: framework/theme_options/options_blog.php:380
+#: framework/theme_options/options_blog.php:391
+#: framework/theme_options/options_blog.php:402
+#: framework/theme_options/options_extra.php:20
+#: framework/theme_options/options_fonts.php:22
+#: framework/theme_options/options_fonts.php:84
+#: framework/theme_options/options_fonts.php:241
+#: framework/theme_options/options_fonts.php:352
+#: framework/theme_options/options_general.php:65
+#: framework/theme_options/options_portfolio.php:80
+#: framework/theme_options/options_portfolio.php:91
+#: framework/theme_options/options_portfolio.php:165
+#: framework/theme_options/options_slider.php:103
+#: framework/theme_options/options_slider.php:115
+#: framework/theme_options/options_utility.php:20
+#: framework/theme_options/options_utility.php:31
+#: framework/theme_options/options_utility.php:42
+#: framework/theme_options/options_utility.php:61
+#: framework/theme_options/options_utility.php:134
+#: framework/theme_options/options_utility.php:145
+#: framework/theme_options/options_utility.php:156
+#: framework/theme_plugins/meta-box/metabox-usage.php:54
+#: framework/theme_plugins/meta-box/metabox-usage.php:65
+#: framework/theme_plugins/meta-box/metabox-usage.php:76
+#: framework/theme_plugins/meta-box/metabox-usage.php:110
+#: framework/theme_plugins/meta-box/metabox-usage.php:177
+#: framework/theme_plugins/meta-box/metabox-usage.php:235
+#: framework/theme_plugins/meta-box/metabox-usage.php:273
+#: framework/theme_plugins/meta-box/metabox-usage.php:305
+#: framework/theme_plugins/meta-box/metabox-usage.php:389
+#: framework/theme_plugins/meta-box/metabox-usage.php:419
+#: framework/theme_plugins/meta-box/metabox-usage.php:430
+#: framework/theme_plugins/meta-box/metabox-usage.php:459
+#: framework/theme_plugins/meta-box/metabox-usage.php:470
+#: framework/theme_plugins/meta-box/metabox-usage.php:787
+#: framework/theme_plugins/meta-box/metabox-usage.php:826
+#: framework/theme_plugins/meta-box/metabox-usage.php:850
+#: framework/theme_widgets/recent_posts.php:378
+#: framework/theme_widgets/recent_posts.php:388
+#: framework/theme_widgets/recent_posts.php:398
+#: framework/theme_widgets/recent_posts.php:407
+#: framework/theme_widgets/recent_posts.php:456
+msgid "No"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:53
+#: framework/theme_options/options_blog.php:170
+#: framework/theme_options/options_blog.php:345
+msgid "Post Meta &rarr; Author"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:64
+#: framework/theme_options/options_blog.php:181
+#: framework/theme_options/options_blog.php:356
+msgid "Post Meta &rarr; Date"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:75
+#: framework/theme_options/options_blog.php:192
+#: framework/theme_options/options_blog.php:367
+msgid "Post Meta &rarr; Date Format"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:76
+#: framework/theme_options/options_blog.php:193
+#: framework/theme_options/options_blog.php:368
+msgid "Documentation"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:82
+#: framework/theme_options/options_blog.php:199
+#: framework/theme_options/options_blog.php:374
+msgid "Post Meta &rarr; Category"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:93
+#: framework/theme_options/options_blog.php:210
+#: framework/theme_options/options_blog.php:385
+msgid "Post Meta &rarr; Comment"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:104
+#: framework/theme_options/options_blog.php:221
+#: framework/theme_options/options_blog.php:396
+msgid "Post Meta &rarr; Tags"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:126
+msgid "Single Post Page"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:131
+#: framework/theme_options/options_blog.php:290
+#: framework/theme_options/options_extra.php:9
+#: framework/theme_options/options_utility.php:47
+#: framework/theme_plugins/meta-box/metabox-usage.php:402
+msgid "Layout"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:132
+msgid "Load layout (sidebar name and position) from selected page or leave '&#8211; Select &#8211;' to use custom layout for single post page."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:140
+msgid "Load style (background color and image) from selected page or leave '&#8211; Select &#8211;' to use custom or general theme style for single post page."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:158
+msgid "Related Posts &rarr; Columns"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:232
+msgid "Post Meta &rarr; Google +"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:243
+msgid "Post Meta &rarr; Twitter"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:254
+msgid "Post Meta &rarr; Facebook"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:265
+msgid "Post Meta &rarr; Pinit"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:285
+#: framework/theme_options/options_portfolio.php:133
+msgid "Archive Page"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:291
+msgid "Load layout (sidebar name and position) from selected page or leave '&#8211; Select &#8211;' to set custom layout for archive page below."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:309
+#: framework/theme_plugins/meta-box/metabox-usage.php:183
+#: framework/theme_options/options_utility.php:66
+msgid "Sidebar &rarr; Name"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:326
+#: framework/theme_options/options_utility.php:83
+#: framework/theme_plugins//meta-box/metabox-usage.php:201
+msgid "Sidebar &rarr; Position"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_blog.php:338
+#: framework/theme_options/options_utility.php:95
+#: framework/theme_options/options_portfolio.php:139
+#: framework/theme_options/options_utility.php:48
+msgid "Load style (background color and image) from selected page or leave '&#8211; Select &#8211;' to use general theme style."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_extra.php:14
+msgid "Responsive Theme"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_extra.php:34
+#: framework/theme_options/options_general.php:9
+msgid "Logo"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_extra.php:38
+msgid "Custom Logo Link"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_extra.php:39
+msgid "Paste custom link for logo."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:16
+#: framework/theme_options/options_fonts.php:78
+#: framework/theme_options/options_fonts.php:235
+#: framework/theme_options/options_fonts.php:346
+msgid "Google Fonts"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:28
+#: framework/theme_options/options_fonts.php:90
+#: framework/theme_options/options_fonts.php:247
+#: framework/theme_options/options_fonts.php:358
+msgid "Google Font Name"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:38
+#: framework/theme_options/options_fonts.php:100
+#: framework/theme_options/options_fonts.php:257
+#: framework/theme_options/options_fonts.php:368
+msgid "Font Family"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:54
+#: framework/theme_options/options_fonts.php:273
+#: framework/theme_options/options_fonts.php:384
+#: framework/theme_plugins/meta-box/metabox-usage.php:857
+#: framework/theme_plugins/meta-box/metabox-usage.php:947
+msgid "Font Size"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:71
+msgid "Headings"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:116
+msgid "Heading 1 Size"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:125
+msgid "Heading 2 Size"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:134
+msgid "Heading 3 Size"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:143
+msgid "Heading 4 Size"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:152
+msgid "Heading 5 Size"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:161
+msgid "Heading 6 Size"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:228
+msgid "Menu"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:171
+#: framework/theme_options/options_fonts.php:283
+#: framework/theme_options/options_fonts.php:394
+#: framework/theme_plugins/meta-box/metabox-usage.php:864
+#: framework/theme_plugins/meta-box/metabox-usage.php:954
+msgid "Font Weight"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:176
+#: framework/theme_options/options_fonts.php:213
+#: framework/theme_options/options_fonts.php:288
+#: framework/theme_options/options_fonts.php:325
+#: framework/theme_options/options_fonts.php:399
+#: framework/theme_options/options_fonts.php:436
+#: framework/theme_plugins/meta-box/metabox-usage.php:868
+#: framework/theme_plugins/meta-box/metabox-usage.php:905
+#: framework/theme_plugins/meta-box/metabox-usage.php:958
+#: framework/theme_plugins/meta-box/metabox-usage.php:995
+msgid "Normal"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:177
+#: framework/theme_options/options_fonts.php:289
+#: framework/theme_options/options_fonts.php:400
+#: framework/theme_plugins/meta-box/metabox-usage.php:869
+#: framework/theme_plugins/meta-box/metabox-usage.php:959
+msgid "Bold"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:178
+#: framework/theme_options/options_fonts.php:290
+#: framework/theme_options/options_fonts.php:401
+#: framework/theme_plugins/meta-box/metabox-usage.php:870
+#: framework/theme_plugins/meta-box/metabox-usage.php:960
+msgid "Bolder"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:179
+#: framework/theme_options/options_fonts.php:291
+#: framework/theme_options/options_fonts.php:402
+#: framework/theme_plugins/meta-box/metabox-usage.php:871
+#: framework/theme_plugins/meta-box/metabox-usage.php:961
+msgid "Lighter"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:194
+#: framework/theme_options/options_fonts.php:306
+#: framework/theme_options/options_fonts.php:417
+#: framework/theme_plugins/meta-box/metabox-usage.php:887
+#: framework/theme_plugins/meta-box/metabox-usage.php:977
+msgid "Text Transform"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:199
+#: framework/theme_options/options_fonts.php:311
+#: framework/theme_options/options_fonts.php:422
+#: framework/theme_options/options_slider.php:32
+#: framework/theme_plugins/meta-box/metabox-usage.php:261
+#: framework/theme_plugins/meta-box/metabox-usage.php:891
+#: framework/theme_plugins/meta-box/metabox-usage.php:981
+#: framework/theme_widgets/recent_posts.php:314
+msgid "None"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:200
+#: framework/theme_options/options_fonts.php:312
+#: framework/theme_options/options_fonts.php:423
+#: framework/theme_plugins/meta-box/metabox-usage.php:892
+#: framework/theme_plugins/meta-box/metabox-usage.php:982
+msgid "Uppercase"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:201
+#: framework/theme_options/options_fonts.php:313
+#: framework/theme_options/options_fonts.php:424
+#: framework/theme_plugins/meta-box/metabox-usage.php:893
+#: framework/theme_plugins/meta-box/metabox-usage.php:983
+msgid "Lowercase"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:202
+#: framework/theme_options/options_fonts.php:314
+#: framework/theme_options/options_fonts.php:425
+#: framework/theme_plugins/meta-box/metabox-usage.php:894
+#: framework/theme_plugins/meta-box/metabox-usage.php:984
+msgid "Capitalize"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:208
+#: framework/theme_options/options_fonts.php:320
+#: framework/theme_plugins/meta-box/metabox-usage.php:901
+#: framework/theme_plugins/meta-box/metabox-usage.php:991
+msgid "Font Style"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:214
+#: framework/theme_options/options_fonts.php:326
+#: framework/theme_options/options_fonts.php:431
+#: framework/theme_options/options_fonts.php:437
+#: framework/theme_plugins/meta-box/metabox-usage.php:906
+#: framework/theme_plugins/meta-box/metabox-usage.php:996
+msgid "Italic"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_fonts.php:215
+#: framework/theme_options/options_fonts.php:327
+#: framework/theme_options/options_fonts.php:438
+#: framework/theme_plugins/meta-box/metabox-usage.php:907
+#: framework/theme_plugins/meta-box/metabox-usage.php:997
+msgid "Oblique"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:15
+msgid "Type"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:21
+msgid "Text"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:34
+#: framework/theme_plugins/meta-box/metabox-usage.php:801
+msgid "Width"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:42
+msgid "Height"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:50
+msgid "Margin"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:51
+msgid "Margin: top right bottom left."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:59
+msgid "Site Slogan"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:60
+msgid "Site slogan below logo."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:77
+#: framework/theme_options/options_general.php:82
+msgid "Favicon"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:83
+msgid "Upload custom favicon GIF or PNG image 16x16 pixels."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:98
+msgid "Main Menu"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:102
+msgid "Margin Top"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:117
+#: framework/theme_options/options_general.php:245
+msgid "Header"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:123
+msgid "Header Content"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:124
+#: framework/theme_options/options_general.php:209
+msgid "You may use shortcodes."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:139
+msgid "Bottom Widgets Area Layout"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:146
+msgid "4 Columns"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:147
+msgid "Case when widgets are published in all Bottom A, B, C, D widgets positions."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:166
+msgid "3 Columns"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:167
+msgid "Case when widgets are published in 3 from 4 Bottom A, B, C, D widgets positions."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:182
+msgid "2 Columns"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:183
+msgid "Case when widgets are published in 2 from 4 Bottom A, B, C, D widgets positions."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:204
+#: framework/theme_options/options_general.php:246
+msgid "Footer"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:208
+msgid "Footer Content"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:216
+#: framework/theme_plugins/meta-box/metabox-usage.php:808
+msgid "Align"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:221
+#: framework/theme_plugins/meta-box/metabox-usage.php:205
+#: framework/theme_plugins/meta-box/metabox-usage.php:812
+#: framework/theme_plugins/meta-box/metabox-usage.php:258
+#: framework/theme_widgets/recent_posts.php:481
+msgid "Left"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:222
+#: framework/theme_plugins/meta-box/metabox-usage.php:206
+#: framework/theme_plugins/meta-box/metabox-usage.php:813
+#: framework/theme_plugins/meta-box/metabox-usage.php:259
+#: framework/theme_widgets/recent_posts.php:482
+msgid "Right"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:235
+msgid "Tracking Code"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:240
+msgid "Location"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_general.php:250
+#: framework/theme_plugins/shortcodes-mce/layout.php:221
+msgid "Code"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_home.php:9
+#: framework/theme_options/options_home.php:14
+msgid "Static Front Page"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:14
+msgid "Portfolio Breadcrumb Link"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:15
+#: framework/theme_options/options_portfolio.php:24
+msgid "Select portfolio page."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:23
+msgid "Back To Portfolio Link"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:31
+#: framework/theme_options/options_portfolio.php:109
+#: framework/theme_options/options_portfolio.php:170
+msgid "Thumbnail Width"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:32
+#: framework/theme_options/options_portfolio.php:39
+msgid "You may also set this value different for different portfolio pages at page metaboxes."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:38
+#: framework/theme_options/options_portfolio.php:116
+#: framework/theme_options/options_portfolio.php:177
+msgid "Thumbnail Height"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:55
+msgid "Single Project Page"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:61
+msgid "Load style (background color and image) from selected page or leave '&#8211; Select &#8211;' to use custom style for project page."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:85
+#: framework/theme_options/options_portfolio.php:159
+#: framework/theme_plugins/meta-box/metabox-usage.php:465
+msgid "Gallery Style"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:96
+#: framework/theme_options/options_portfolio.php:146
+#: framework/theme_plugins/meta-box/metabox-usage.php:476
+msgid "Columns"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:184
+msgid "Description Word Count"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_portfolio.php:185
+msgid "Only for 1 column layout."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:16
+msgid "Order"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:21
+#: framework/theme_widgets/recent_posts.php:338
+msgid "Ascending"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:22
+#: framework/theme_widgets/recent_posts.php:339
+msgid "Descending"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:27
+msgid "Order By"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:33
+#: framework/theme_widgets/recent_posts.php:316
+msgid "ID"
+msgstr ""
+
+
+
+
+#: framework/post_types/slides_post_type.php:55
+#: framework/theme_options/options_slider.php:34
+#: framework/theme_options/options_utility.php:14
+#: framework/theme_options/options_utility.php:128
+#: framework/theme_plugins/meta-box/metabox-usage.php:49
+#: framework/theme_plugins/meta-box/metabox-usage.php:839
+#: framework/theme_plugins/meta-box/metabox-usage.php:845
+#: framework/theme_widgets/recent_posts.php:318
+msgid "Title"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:35
+#: framework/theme_widgets/recent_posts.php:319
+msgid "Date"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:36
+msgid "Modifed"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:37
+#: framework/theme_widgets/recent_posts.php:322
+msgid "Random"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:56
+msgid "Animation Type"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:61
+msgid "Fade"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:68
+msgid "Direction"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:69
+msgid "Only for 'slide' animation type."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:73
+msgid "Horizontal"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:74
+msgid "Vertical"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:79
+msgid "Slideshow Speed"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:88
+msgid "Animation Speed"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:97
+msgid "Direction Nav"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:98
+msgid "Next and Prev navigation."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:109
+msgid "Control Nav"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:110
+msgid "1,2,3... navigation."
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:119
+msgid "Control Thumbnail Width"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_slider.php:126
+msgid "Control Thumbnail Height"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:14
+#: framework/theme_plugins/meta-box/metabox-usage.php:635
+msgid "Predefined Style"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:19
+#: framework/theme_plugins/meta-box/metabox-usage.php:640
+msgid "Blue"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:20
+#: framework/theme_plugins/meta-box/metabox-usage.php:641
+msgid "Brown"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:21
+#: framework/theme_plugins/meta-box/metabox-usage.php:642
+msgid "Dark Blue"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:22
+#: framework/theme_plugins/meta-box/metabox-usage.php:643
+msgid "Gold"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:23
+#: framework/theme_plugins/meta-box/metabox-usage.php:644
+msgid "Gray"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:24
+#: framework/theme_plugins/meta-box/metabox-usage.php:645
+msgid "Green"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:25
+#: framework/theme_plugins/meta-box/metabox-usage.php:646
+msgid "Orange"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:26
+#: framework/theme_plugins/meta-box/metabox-usage.php:647
+msgid "Red"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:27
+#: framework/theme_plugins/meta-box/metabox-usage.php:648
+msgid "Violet"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:31
+#: framework/theme_plugins/meta-box/metabox-usage.php:654
+msgid "Custom Color"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:47
+msgid "Text and Headings"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:51
+#: framework/theme_options/options_style.php:175
+#: framework/theme_plugins/meta-box/metabox-usage.php:552
+#: framework/theme_plugins/meta-box/metabox-usage.php:659
+msgid "Text Color"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:57
+#: framework/theme_options/options_style.php:181
+#: framework/theme_plugins/meta-box/metabox-usage.php:557
+#: framework/theme_plugins/meta-box/metabox-usage.php:664
+msgid "Headings Color"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:74
+msgid "Links"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:78
+#: framework/theme_options/options_style.php:187
+#: framework/theme_plugins/meta-box/metabox-usage.php:562
+#: framework/theme_plugins/meta-box/metabox-usage.php:669
+msgid "Links Color"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:84
+#: framework/theme_options/options_style.php:193
+#: framework/theme_plugins/meta-box/metabox-usage.php:567
+#: framework/theme_plugins/meta-box/metabox-usage.php:674
+msgid "Hover Links Color"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:101
+#: framework/theme_plugins/meta-box/metabox-usage.php:821
+#: framework/theme_plugins/meta-box/metabox-usage.php:920
+#: framework/theme_plugins/meta-box/metabox-usage.php:1010
+#: framework/theme_plugins/meta-box/metabox-usage.php:1042
+msgid "Background"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:105
+#: framework/theme_options/options_style.php:199
+msgid "Background Color"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:111
+#: framework/theme_options/options_style.php:205
+msgid "Background Image"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:119
+#: framework/theme_options/options_style.php:213
+msgid "Background Repeat"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:124
+#: framework/theme_options/options_style.php:218
+#: framework/theme_plugins/meta-box/metabox-usage.php:587
+#: framework/theme_plugins/meta-box/metabox-usage.php:694
+msgid "Repeat"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:125
+#: framework/theme_options/options_style.php:219
+#: framework/theme_plugins/meta-box/metabox-usage.php:588
+#: framework/theme_plugins/meta-box/metabox-usage.php:695
+msgid "Repeat X"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:126
+#: framework/theme_options/options_style.php:220
+#: framework/theme_plugins/meta-box/metabox-usage.php:589
+#: framework/theme_plugins/meta-box/metabox-usage.php:696
+msgid "Repeat Y"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:127
+#: framework/theme_options/options_style.php:221
+#: framework/theme_plugins/meta-box/metabox-usage.php:590
+#: framework/theme_plugins/meta-box/metabox-usage.php:697
+msgid "No Repeat"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:132
+#: framework/theme_options/options_style.php:226
+msgid "Background Position"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:137
+#: framework/theme_options/options_style.php:231
+#: framework/theme_plugins/meta-box/metabox-usage.php:599
+#: framework/theme_plugins/meta-box/metabox-usage.php:706
+msgid "Left Top"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:138
+#: framework/theme_options/options_style.php:232
+#: framework/theme_plugins/meta-box/metabox-usage.php:600
+#: framework/theme_plugins/meta-box/metabox-usage.php:707
+msgid "Left Center"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:139
+#: framework/theme_options/options_style.php:233
+#: framework/theme_plugins/meta-box/metabox-usage.php:601
+#: framework/theme_plugins/meta-box/metabox-usage.php:708
+msgid "Left Bottom"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:140
+#: framework/theme_options/options_style.php:234
+#: framework/theme_plugins/meta-box/metabox-usage.php:602
+#: framework/theme_plugins/meta-box/metabox-usage.php:709
+msgid "Right Top"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:141
+#: framework/theme_options/options_style.php:235
+#: framework/theme_plugins/meta-box/metabox-usage.php:603
+#: framework/theme_plugins/meta-box/metabox-usage.php:710
+msgid "Right Center"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:142
+#: framework/theme_options/options_style.php:236
+#: framework/theme_plugins/meta-box/metabox-usage.php:604
+#: framework/theme_plugins/meta-box/metabox-usage.php:711
+msgid "Right Bottom"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:143
+#: framework/theme_options/options_style.php:237
+#: framework/theme_plugins/meta-box/metabox-usage.php:605
+#: framework/theme_plugins/meta-box/metabox-usage.php:712
+msgid "Center Top"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:144
+#: framework/theme_options/options_style.php:238
+#: framework/theme_plugins/meta-box/metabox-usage.php:606
+#: framework/theme_plugins/meta-box/metabox-usage.php:713
+msgid "Center Bottom"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:145
+#: framework/theme_options/options_style.php:239
+#: framework/theme_plugins/meta-box/metabox-usage.php:607
+#: framework/theme_plugins/meta-box/metabox-usage.php:814
+#: framework/theme_plugins/meta-box/metabox-usage.php:260
+#: framework/theme_widgets/recent_posts.php:483
+msgid "Center"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:151
+msgid "Background Attachment"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:156
+#: framework/theme_plugins/meta-box/metabox-usage.php:723
+msgid "Scroll"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:157
+#: framework/theme_plugins/meta-box/metabox-usage.php:724
+msgid "Fixed"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:171
+msgid "Page Heading Section"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_style.php:253
+#: framework/theme_options/options_style.php:257
+msgid "Custom CSS"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:9
+msgid "Search Page"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:160
+msgid "Content"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:161
+msgid "Optional"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:25
+#: framework/theme_options/options_utility.php:139
+#: framework/theme_plugins/meta-box/metabox-usage.php:60
+msgid "Breadcrumb"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:36
+#: framework/theme_options/options_utility.php:150
+#: framework/theme_plugins/meta-box/metabox-usage.php:71
+msgid "Search Form"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:55
+#: framework/theme_plugins/meta-box/metabox-usage.php:166
+#: framework/theme_plugins/meta-box/metabox-usage.php:172
+msgid "Sidebar"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:102
+msgid "Search Results Word Count"
+msgstr ""
+
+
+
+
+#: framework/theme_options/options_utility.php:123
+msgid "404 Page"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:115
+msgid "Slider &rarr; Type"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:126
+msgid "Slider &rarr; Layout"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:130
+msgid "Default"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:131
+msgid "Thumbnail Control"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:138
+msgid "Slides Count"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:145
+msgid "Slides Category ID"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:150
+msgid "(Optional)"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:180
+msgid "This option does not work with portfolio page template."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:378
+#: framework/theme_widgets/recent_posts.php:289
+msgid "Portfolio Post"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:384
+msgid "Title Link"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:406
+msgid "Media and Right Description"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:407
+msgid "Left Description and Media"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:408
+msgid "Media and Description Below"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:411
+msgid "Layout of single project page ('Media' means thumbnail or video or slider)."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:414
+msgid "Project Types and Skills"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:425
+msgid "Navigation"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:237
+msgid "Show thumbnail or slider or video on single post / project page."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:240
+msgid "Thumbnail &rarr; Width"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:247
+#: framework/theme_plugins/meta-box/metabox-usage.php:510
+msgid "Thumbnail &rarr; Height"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:254
+msgid "Thumbnail &rarr; Align"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:267
+msgid "Thumbnail Link to Post"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:275
+msgid "If 'No' thumbnail is a link to orginal size image / video opened in lightbox."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:293
+msgid "Thumbnail &rarr; Slider"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:299
+msgid "Thumbnail Slider"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:310
+msgid "Thumbnail Slider &rarr; Slide Count"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:328
+msgid "Thumbnail &rarr; Video"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:334
+msgid "Video / Flash &rarr; URL"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:338
+msgid "Will be display in lightbox."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:341
+msgid "Video / Flash &rarr; Width"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:345
+#: framework/theme_plugins/meta-box/metabox-usage.php:352
+msgid "Require for flash file."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:348
+msgid "Video / Flash &rarr; Height"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:355
+msgid "Viedo Embed Code"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:359
+msgid "Use shortcode [youtube id=''] or [vimeo id=''] or paste video emebed code."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:448
+msgid "Portfolio Page"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:454
+msgid "Portfolio Filterable"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:489
+msgid "Project &rarr; Count"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:496
+msgid "Project &rarr; Description Word Count"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:500
+msgid "Only for portfolio 1 column."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:503
+msgid "Thumbnail &rarr; Width'"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:507
+#: framework/theme_plugins/meta-box/metabox-usage.php:514
+#: framework/theme_plugins/meta-box/metabox-usage.php:917
+#: framework/theme_plugins/meta-box/metabox-usage.php:923
+#: framework/theme_plugins/meta-box/metabox-usage.php:7007
+#: framework/theme_plugins/meta-box/metabox-usage.php:1013
+#: framework/theme_plugins/meta-box/metabox-usage.php:1039
+#: framework/theme_plugins/meta-box/metabox-usage.php:1045
+msgid "<em>(optional)</em>"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:545
+msgid "Page Heading Style"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:572
+#: framework/theme_plugins/meta-box/metabox-usage.php:679
+msgid "Background &rarr; Color"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:577
+#: framework/theme_plugins/meta-box/metabox-usage.php:684
+msgid "Background &rarr; Image"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:578
+#: framework/theme_plugins/meta-box/metabox-usage.php:685
+msgid "Full url: http://website.com/image.jpg"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:583
+#: framework/theme_plugins/meta-box/metabox-usage.php:690
+msgid "Background &rarr; Repeat"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:595
+#: framework/theme_plugins/meta-box/metabox-usage.php:702
+msgid "Background &rarr; Position"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:627
+msgid "Page Style"
+msgstr ""
+
+
+
+
+#: framework/theme_options/interface.php:377
+#: framework/theme_options/interface.php:385
+#: framework/theme_options/options_blog.php:313
+#: framework/theme_options/options_utility.php:70
+#: framework/theme_plugins/meta-box/metabox-usage.php:187
+#: framework/theme_plugins/meta-box/metabox-usage.php:639
+msgid "&#8211; Select &#8211;"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:719
+msgid "Background &rarr; Attachment"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:752
+msgid "Slide Link"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:756
+msgid "Paste link for slide image."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:759
+msgid "Open Link"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:763
+msgid "In the same window"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:764
+msgid "In a new window"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:776
+msgid "Caption"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:782
+msgid "Use caption"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:794
+msgid "Top Position"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:798
+msgid "Set top position of slide caption in %."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:805
+msgid "Set width of slide caption."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:818
+msgid "Set align of slide caption."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:830
+msgid "Use caption background (default is a dark transparent background image)."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:934
+#: framework/theme_plugins/meta-box/metabox-usage.php:940
+msgid "Sub-Title"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:914
+#: framework/theme_plugins/meta-box/metabox-usage.php:1004
+#: framework/theme_plugins/meta-box/metabox-usage.php:1036
+msgid "Color"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:1021
+#: framework/theme_plugins/meta-box/metabox-usage.php:1027
+msgid "Description"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/meta-box/metabox-usage.php:1028
+msgid "Paste slide description. You may use shortcodes."
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:23
+msgid "-------- Select Shortcodes --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:27
+msgid "-------- Accordions and Tabs --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:28
+msgid "Accordion"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:29
+msgid "Tabs"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:32
+msgid "-------- Boxes --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:33
+msgid "Box Gray"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:34
+msgid "Box Blue"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:35
+msgid "Box Green"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:36
+msgid "Box Red"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:38
+msgid "Box Bag"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:39
+msgid "Box Box"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:40
+msgid "Box Check"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:41
+msgid "Box Contact"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:42
+msgid "Box Download"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:43
+msgid "Box Exchange"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:44
+msgid "Box Mail"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:45
+msgid "Box Note"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:46
+msgid "Box Presentation"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:47
+msgid "Box Search"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:48
+msgid "Box Shopping Cart"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:49
+msgid "Box Settings"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:50
+msgid "Box Upload"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:54
+msgid "-------- Buttons --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:57
+msgid "Button Small"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:58
+msgid "Button Small Blue"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:59
+msgid "Button Small Green"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:60
+msgid "Button Small Orange"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:61
+msgid "Button Small Yellow"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:63
+msgid "Button Big"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:64
+msgid "Button Big Blue"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:65
+msgid "Button Big Green"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:66
+msgid "Button Big Orange"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:67
+msgid "Button Big Yellow"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:69
+msgid "Button Big Archive"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:70
+msgid "Button Big Bag"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:71
+msgid "Button Big Cart"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:72
+msgid "Button Big Document"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:73
+msgid "Button Big Download"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:74
+msgid "Button Big Image"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:75
+msgid "Button Big Link"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:76
+msgid "Button Big Mail"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:77
+msgid "Button Big Upload"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:78
+msgid "Button Big Video"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:80
+msgid "Button Big Lightbox Link"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:84
+msgid "-------- Columns --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:97
+msgid "-------- Dropcaps --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:98
+msgid "Dropcap Style 1"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:99
+msgid "Dropcap Style 2"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:100
+msgid "Dropcap Style 3"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:104
+msgid "-------- Highlights --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:105
+msgid "Highlight Default Color"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:106
+msgid "Highlight Dark"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:107
+msgid "Highlight Gray"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:111
+msgid "-------- Images and Videos --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:115
+msgid "Image in Lightbox"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:117
+msgid "Video Youtube Fixed Width and Height"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:118
+msgid "Video Youtube Flexible"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:119
+msgid "Video Vimeo Fixed Width and Height"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:120
+msgid "Video Vimeo Flexible"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:121
+msgid "Video in Lightbox"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:123
+msgid "Gallery Images in Lightbox"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:124
+msgid "Gallery Videos in Lightbox"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:125
+msgid "Gallery Mixed in Lightbox"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:129
+msgid "-------- Lists and Menus --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:130
+msgid "List Ordered"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:131
+msgid "List Unordered"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:133
+msgid "Menu 1"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:134
+msgid "Menu 2"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:135
+msgid "Menu 3"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:84
+msgid "List Style Arrow"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:138
+msgid "List Style Check"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:139
+msgid "List Style Document"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:140
+msgid "List Style Mail"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:141
+msgid "List Style Phone"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:142
+msgid "List Style Star"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:146
+msgid "-------- Messages --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:147
+msgid "Message Blue"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:148
+msgid "Message Green"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:149
+msgid "Message Red"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:150
+msgid "Message Yellow"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:154
+msgid "-------- Pages --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:155
+msgid "Page Home Default"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:156
+msgid "Page Home 2"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:157
+msgid "Page Home 3"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:158
+msgid "Page About Us"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:159
+msgid "Page Services"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:163
+msgid "-------- Posts --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:164
+#: framework/theme_widgets/recent_posts.php:243
+msgid "Recent Posts"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:165
+msgid "Recent Projects"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:169
+msgid "-------- Slides --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:170
+msgid "Slider Full Width"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:171
+msgid "Slider Align Left"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:172
+msgid "Slider Align Right"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:176
+msgid "-------- Social Icons --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:196
+msgid "-------- Headings and Titles --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:197
+msgid "Heading H1"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:198
+msgid "Heading H2"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:199
+msgid "Heading H3"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:200
+msgid "Heading H4"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:201
+msgid "Heading H5"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:202
+msgid "Heading H6"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:204
+msgid "Title 1"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:205
+msgid "Title 2"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:209
+msgid "-------- Quotes --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:210
+msgid "Quote Default"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:211
+msgid "Quote with Author"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:212
+msgid "Quote with Author Link"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:213
+msgid "Quote Left"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:214
+msgid "Quote Right"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:218
+msgid "-------- Other --------"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:219
+msgid "Break Line"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:220
+msgid "Clear"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:222
+msgid "Google Map"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:223
+msgid "Separator"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:225
+msgid "Team"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:232
+msgid "Insert"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/shortcodes-mce/layout.php:233
+msgid "Cancel"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/breadcrumb.php:114
+msgid "Error 404"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/breadcrumb.php:118
+msgid "&nbsp;Page"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/pagination.php:23
+msgid "Prev"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/pagination.php:30
+msgid "Next"
+msgstr ""
+
+
+
+
+#: framework/theme_plugins/pagination.php:31
+msgid "End"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/flickr.php:22
+msgid "A widget that displays the images from flickr."
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/flickr.php:26
+msgid "Mb2 &rarr; Flickr Widget"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/flickr.php:78
+msgid "Flickr Photostream"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/flickr.php:83
+#: framework/theme_widgets/recent_posts.php:273
+msgid "Title:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/flickr.php:90
+msgid "Flickr ID <a style='text-decoration:none;' href='http://idgettr.com/' target='_blank'>Get ID.</a>:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/flickr.php:96
+msgid "Count of Images:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:22
+msgid "A widget that displays the recent posts by category."
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:26
+msgid "Mb2 &rarr; Recent Posts"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:259
+msgid "Read more"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:281
+msgid "Basic:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:286
+msgid "Post Type:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:288
+msgid "Normal Post"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:296
+msgid "Category ID:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:305
+msgid "Post Count:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:312
+msgid "Order By:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:317
+msgid "Author"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:320
+msgid "Modified"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:321
+msgid "Parent"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:323
+msgid "Comment Count"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:324
+msgid "Menu Order"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:325
+msgid "Meta Value"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:326
+msgid "Meta Value Num"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:336
+msgid "Order:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:368
+msgid "Layout:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:375
+msgid "Gallery Style:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:385
+msgid "Post Title:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:395
+msgid "Title as Link:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:404
+msgid "Date:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:414
+msgid "Date Format:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:422
+msgid "Word Count:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:428
+msgid "Read More Text (or leave empty):"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:448
+msgid "Thumbnails:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:453
+msgid "Show Thumbnail:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:464
+msgid "Width:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:471
+msgid "Height:"
+msgstr ""
+
+
+
+
+#: framework/theme_widgets/recent_posts.php:479
+msgid "Position:"
+msgstr ""
