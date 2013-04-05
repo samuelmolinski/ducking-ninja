@@ -91,3 +91,36 @@ require_once $path_theme_plugins . 'shortcodes-mce/shortcodes-mce.php';		//short
 require_once $path_theme_widgets . 'recent_posts.php';
 require_once $path_theme_widgets . 'flickr.php';
 require_once $path_theme_widgets . 'twitter.php';
+
+
+	/*
+	* Search form (needs to be function to maintain return output of get_search_form())
+	*/
+	if ( ! function_exists( 'wm_search_form' ) ) {
+		function wm_search_form() {
+			if(strpos(get_option( 'home'), '/en') !== false) {
+				//$flag = '<a href="http://grupoatlantes.com.br/site/"><li><div class="ico-por"> <span>POR</span></li></a>';
+				$flag = '<a href="#"><li><div class="ico-por"> <span>POR</span></li></a>';
+			} else {
+				//$flag = '<a href="http://grupoatlantes.com.br/site/en/"><li><div class="ico-eng"> <span>ENG</span></li></a>';
+				$flag = '<a href="#"><li><div class="ico-eng"> <span>ENG</span></li></a>';
+			}
+			$form = '
+				<div class="idioma">
+					<ul>
+						'.$flag.'
+					</ul>
+				</div>
+				<form method="get" class="form-search" action="' . home_url( '/' ) . '">
+				<fieldset>
+					<label class="assistive-text invisible">' . __( 'Search for:', 'atlantes_domain' ) . '</label>
+					<input type="text" class="text" name="s" placeholder="Search for:" />
+					<input type="submit" class="submit" value="' . __( 'Submit', 'atlantes_domain' ) . '" />
+					<i class="wmicon-search"></i>
+				</fieldset>
+				</form>
+				';
+
+			return $form;
+		}
+	} // /wm_search_form

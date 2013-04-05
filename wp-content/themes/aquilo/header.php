@@ -117,7 +117,8 @@ if ($tracking_code !='' && $tracking_code_location == 'header'){
                             <div id="custom-header-content">                 
                                 <?php echo do_shortcode($header_content); ?>                
                             </div>
-                            <?php } ?>           
+                            <?php } ?>    
+                            <div><?php echo wm_search_form(); ?></div>       
                             <nav id="navigation">
                             <?php 
                                 wp_nav_menu( array( 	

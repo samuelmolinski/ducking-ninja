@@ -1099,3 +1099,40 @@ ul#portfolio-filter li a:focus		{background-color:#abc53e;
 .cptch_block br			{display:none;}
 
 .cptch_block			{margin-bottom:15px;}
+
+}
+
+			.idioma{
+				float: right;
+				display: inline-block;
+				margin: 10px 0 0 0;
+				padding: 0;
+				ul{
+					display: inline-block;
+					list-style: none;
+					margin: 0;
+					padding: 0;
+					li{
+						display: inline-block;
+						list-style: none;
+						padding: 0 25px 0 5px;
+						a{
+							span{
+
+							}
+						}
+					}
+				}
+			}
+			.ico-por{
+				background: url('../img/icon-br.png') no-repeat center;
+				width: 34px;
+				height: 100%;
+				padding: 3px 0 0 45px;
+			}
+			.ico-eng{
+				background: url('../img/icon-eng.png') no-repeat center;
+				width: 34px;
+				height: 100%;
+				padding: 3px 0 0 45px;
+			}
