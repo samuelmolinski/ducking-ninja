@@ -105,20 +105,21 @@ require_once $path_theme_widgets . 'twitter.php';
 				//$flag = '<a href="http://grupoatlantes.com.br/site/en/"><li><div class="ico-eng"> <span>ENG</span></li></a>';
 				$flag = '<a href="#"><li><div class="ico-eng"> <span>ENG</span></li></a>';
 			}
+			/*<form method="get" class="form-search" action="' . home_url( '/' ) . '">
+				<fieldset>
+					<input type="text" class="text" name="s" placeholder="' . __( 'Search', 'aquilo' ) . '" />
+					<input type="submit" class="submit" value="' . __( 'Search', 'aquilo' ) . '" />
+					<i class="wmicon-search"></i>
+				</fieldset>
+				</form>*/
+
+			//$form = get_search_form().'
 			$form = '
 				<div class="idioma">
 					<ul>
 						'.$flag.'
 					</ul>
 				</div>
-				<form method="get" class="form-search" action="' . home_url( '/' ) . '">
-				<fieldset>
-					<label class="assistive-text invisible">' . __( 'Search for:', 'atlantes_domain' ) . '</label>
-					<input type="text" class="text" name="s" placeholder="Search for:" />
-					<input type="submit" class="submit" value="' . __( 'Submit', 'atlantes_domain' ) . '" />
-					<i class="wmicon-search"></i>
-				</fieldset>
-				</form>
 				';
 
 			return $form;

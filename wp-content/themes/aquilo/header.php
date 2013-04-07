@@ -137,17 +137,6 @@ if ($tracking_code !='' && $tracking_code_location == 'header'){
 					<div class="clear"></div>           
 				</div><!-- end .wrap -->
 			</header><!-- end #header -->
-			<?php if ($meta_slider_enabler == 1) { ?>
-           		<section id="slider">
-           			<div class="wrap">
-                   		<?php 
-						if($meta_slider == 'flexslider'){
-							get_template_part('framework/includes/sliders/slider','flexslider');	
-						}						
-						?>
-               		</div><!-- end .wrap -->
-               	</section><!-- end #slider -->
-            <?php } ?>
 			<?php if($meta_page_title == 1 || $meta_breadcrumb == 1 || $meta_search == 1){ ?>	
                 <section id="page-heading">
                     <div class="wrap">
@@ -208,5 +197,16 @@ if ($tracking_code !='' && $tracking_code_location == 'header'){
                 <?php
                 }	
             ?>
+            <?php if ($meta_slider_enabler == 1) { ?>
+                <section id="slider">
+                    <div class="wrap">
+                        <?php 
+                        if($meta_slider == 'flexslider'){
+                            get_template_part('framework/includes/sliders/slider','flexslider');    
+                        }                       
+                        ?>
+                    </div><!-- end .wrap -->
+                </section><!-- end #slider -->
+            <?php } ?>
 		</div><!-- end #page-top -->
         <div id="page-middle">
