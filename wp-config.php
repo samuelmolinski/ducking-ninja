@@ -40,7 +40,14 @@ define('DB_COLLATE', '');
 define('WP_ALLOW_MULTISITE', true);
 
 /* Multisite */
-define('WP_ALLOW_MULTISITE', true);
+//define('WP_ALLOW_MULTISITE', true);
+
+define('MULTISITE', true);
+define('SUBDOMAIN_INSTALL', false);
+define('DOMAIN_CURRENT_SITE', 'nissenidea.com');
+define('PATH_CURRENT_SITE', '/smt/');
+define('SITE_ID_CURRENT_SITE', 1);
+define('BLOG_ID_CURRENT_SITE', 1);
 
 /**#@+
  * Authentication Unique Keys and Salts.
