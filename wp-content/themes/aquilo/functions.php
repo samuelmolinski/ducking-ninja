@@ -125,3 +125,29 @@ require_once $path_theme_widgets . 'twitter.php';
 			return $form;
 		}
 	} // /wm_search_form
+
+
+	function add_iframe($arr) {
+		$arr['extended_valid_elements'] = "iframe[id|class|title|style|align|frameborder|height|longdesc|marginheight|marginwidth|name|scrolling|src|style|width]";
+		return $arr;
+	}
+	add_filter('tiny_mce_before_init', 'add_iframe');
+	 
+	global $allowedposttags;
+	$allowedposttags["iframe"] = array(
+	        "id" => array(),
+			"class" => array(),
+			"title" => array(),
+			"style" => array(),
+			"align" => array(),
+			"frameborder" => array(),
+			"longdesc" => array(),
+			"marginheight" => array(),
+			"marginwidth" => array(),
+			"name" => array(),
+			"scrolling" => array(),
+			"src" => array(),
+	        "height" => array(),
+	        "width" => array(),
+	        "style" => array()
+	);
