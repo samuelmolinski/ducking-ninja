@@ -147,16 +147,18 @@ ul.ui-tabs-nav li.ui-state-active a:focus		{color:#fff;}
 /*-----------------------------------------------------------------------------------*/
 /*	Columns
 /*-----------------------------------------------------------------------------------*/
-.one-two, .one-three, .one-four,
+.one-one, .one-two, .one-three, .one-four, .one-five
 .two-three, .three-four 				{float:left;
 										margin-right:1.75%;
 										margin-left:1.75%;
 										margin-bottom:20px;}
 
+.one-one			{width:96.5%;}
 .one-two 			{width:48.25%;}
 .one-three 			{width:31%;}
 .two-three 			{width:65.4%;}
 .one-four			{width:22.35%;}
+.one-five			{width:19.3%;}
 
 .three-four			{width:74%;}
 
