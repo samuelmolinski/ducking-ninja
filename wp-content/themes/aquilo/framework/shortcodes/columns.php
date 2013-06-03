@@ -21,7 +21,7 @@ add_shortcode('three_four_last', 'mb_three_four_last');
 
 add_shortcode('one_one', 'mb_one_one');
 
-add_shortcode('one_five_first', 'mb_one_five');
+add_shortcode('one_five_first', 'mb_one_five_first');
 add_shortcode('one_five', 'mb_one_five');
 add_shortcode('one_five_last', 'mb_one_five_last');
 

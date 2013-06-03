@@ -45,12 +45,12 @@ if (have_posts()){ while (have_posts()) : the_post();
                 	<?php } ?> 
                     <?php if ($post_meta_author == 1) { ?>
                 		<li class="blog-post-meta-author">
-                      	  <?php  _e('by', 'aquilo');  ?> <span><?php echo the_author_posts_link(); ?></span>
+                      	  <span><?php echo the_author_posts_link(); ?></span>
                     	</li>							
                	 	<?php } ?>
                     <?php if ($post_meta_category == 1) {  ?>
 					<li class="blog-post-meta-category">
-						<?php  _e('in', 'aquilo');  ?> <span><?php the_category(', '); ?></span>
+						<span><?php the_category(', '); ?></span>
 					</li>                            
 					<?php } ?>   
                 	<?php if ($post_meta_comment == 1) {  ?>
@@ -149,7 +149,7 @@ if (have_posts()){ while (have_posts()) : the_post();
 		get_template_part('framework/includes/blocks/block','related_posts');
    	}
 	
-	comments_template('', true); 
+	//comments_template('', true); 
 	?>		 
      <div class="clear"></div>       
 </article>
