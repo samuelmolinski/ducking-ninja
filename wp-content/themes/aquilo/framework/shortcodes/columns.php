@@ -19,10 +19,16 @@ add_shortcode('one_four', 'mb_one_four');
 add_shortcode('three_four_first', 'mb_three_four_first');
 add_shortcode('three_four_last', 'mb_three_four_last');
 
+add_shortcode('one_one', 'mb_one_one');
+
 add_shortcode('one_five_first', 'mb_one_five');
 add_shortcode('one_five', 'mb_one_five');
 add_shortcode('one_five_last', 'mb_one_five_last');
 
+
+function mb_one_one ($atts, $content= null){				
+	return '<div class="one-one first">'. do_shortcode($content) .'</div>';
+}
 
 function mb_one_two_first ($atts, $content= null){				
 	return '<div class="one-two first">'. do_shortcode($content) .'</div>';
@@ -53,8 +59,8 @@ function mb_two_three_last ($atts, $content= null){
 }
 	
 function mb_one_four ($atts, $content= null){	
-	return '<div class="one-four">'. do_shortcode($content) .'</div>';
-}
+	return '<div class="one-four">'. do_shortcode($content) .'</div>'
+;}
 	
 function mb_one_four_first ($atts, $content= null){	
 	return '<div class="one-four first">'. do_shortcode($content) .'</div>';
