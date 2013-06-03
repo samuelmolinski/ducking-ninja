@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'lps_smt');
-//define('DB_NAME', 'smt_wordpress');
+//define('DB_NAME', 'lps_smt');
+define('DB_NAME', 'smt_wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'admin');
-//define('DB_USER', 'webadmin');
+//define('DB_USER', 'admin');
+define('DB_USER', 'webadmin');
 
 /** MySQL database password */
-define('DB_PASSWORD', '123!!@qwe');
-//define('DB_PASSWORD', 'smt1234');
+//define('DB_PASSWORD', '123!!@qwe');
+define('DB_PASSWORD', 'smt1234');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -39,12 +39,12 @@ define('DB_COLLATE', '');
 /* Multisite */
 //define('WP_ALLOW_MULTISITE', true);
 
-/*define('MULTISITE', true);
+define('MULTISITE', true);
 define('SUBDOMAIN_INSTALL', false);
 define('DOMAIN_CURRENT_SITE', 'nissenidea.com');
 define('PATH_CURRENT_SITE', '/smt/');
 define('SITE_ID_CURRENT_SITE', 1);
-define('BLOG_ID_CURRENT_SITE', 1);*/
+define('BLOG_ID_CURRENT_SITE', 1);
 
 /**#@+
  * Authentication Unique Keys and Salts.
