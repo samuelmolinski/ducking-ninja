@@ -152,9 +152,9 @@ require_once $path_theme_widgets . 'twitter.php';
 	        "style" => array()
 	);
 
-	function my_myme_types($mime_types){
+	/*function my_myme_types($mime_types){
 	    $mime_types['rtf'] = 'application/rtf'; //Adding avi extension
 	    unset($mime_types['pdf']); //Removing the pdf extension
 	    return $mime_types;
 	}
-	add_filter('upload_mimes', 'my_myme_types', 1, 1);
+	add_filter('upload_mimes', 'my_myme_types', 1, 1);*/

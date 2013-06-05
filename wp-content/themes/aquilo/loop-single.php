@@ -146,7 +146,7 @@ if (have_posts()){ while (have_posts()) : the_post();
    	<?php 
    	//related posts 
    	if($related_posts == 1) {
-		get_template_part('framework/includes/blocks/block','related_posts');
+		//get_template_part('framework/includes/blocks/block','related_posts');
    	}
 	
 	//comments_template('', true); 
