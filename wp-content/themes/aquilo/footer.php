@@ -12,7 +12,7 @@ $tracking_code_location = mb2_theme_option('aquilo_tracking_code_location');
 <div id="page-bottom">
 
 <?php	
-	get_template_part('framework/includes/blocks/block','bottom');
+	if(is_home() || is_front_page()){get_template_part('framework/includes/blocks/block','bottom');}
 	get_template_part('framework/includes/blocks/block','footer');
 ?>
 
