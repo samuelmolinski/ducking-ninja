@@ -100,10 +100,10 @@ require_once $path_theme_widgets . 'twitter.php';
 		function wm_search_form() {
 			if(strpos(get_option( 'home'), '/en') !== false) {
 				//$flag = '<a href="http://grupoatlantes.com.br/site/"><li><div class="ico-por"> <span>POR</span></li></a>';
-				$flag = '<a href="#"><li><div class="ico-por"> <span>POR</span></li></a>';
+				$flag = '<a href="'.home_url().'/..'.'"><li><div class="ico-por"> <span>POR</span></li></a>';
 			} else {
 				//$flag = '<a href="http://grupoatlantes.com.br/site/en/"><li><div class="ico-eng"> <span>ENG</span></li></a>';
-				$flag = '<a href="#"><li><div class="ico-eng"> <span>ENG</span></li></a>';
+				$flag = '<a href="'.home_url().'/en'.'"><li><div class="ico-eng"> <span>ENG</span></li></a>';
 			}
 			/*<form method="get" class="form-search" action="' . home_url( '/' ) . '">
 				<fieldset>
