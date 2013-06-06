@@ -10,7 +10,7 @@
 
 .cform { 
 	margin:10px auto 0 auto; 
-	width: 185px; 
+	width: 95%; 
 	overflow:hidden;
 }
 
@@ -139,7 +139,7 @@ label.cf-group-after span {
 
 .cform textarea,
 .cform input {
-	width:150px; 
+	width:90%; 
 }
 .cform select {
 	width:158px; /* attempt to have equal length */
@@ -213,7 +213,7 @@ ol.cf-ol li.cf-box-group {
 p.cf-sb {
 	padding: 0!important;
 	margin: 0;
-	text-align:right;
+	text-align:center;
 }
 .cform input.backbutton,
 .cform input.resetbutton,
@@ -402,6 +402,7 @@ div.mailerr {
 	margin:0 0 10px 0!important;
 	padding:0!important;	
 	text-align:center!important;
+	display: none;
 }
 .linklove a,
 .linklove a:visited {
