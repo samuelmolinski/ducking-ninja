@@ -52,7 +52,7 @@ if ( $blog_query->have_posts()) { while ( $blog_query->have_posts()): $blog_quer
                             <span><?php the_time(''.$post_meta_date_format.''); ?></span>
                         </li>                            
                     <?php } ?> 
-                    <?php if ($post_meta_author == 1) { ?>
+                    <?php /*if ($post_meta_author == 1) { ?>
                         <li class="blog-post-meta-author">
                             <?php  echo __('by', 'aquilo');  ?> <span><?php echo the_author_posts_link(); ?></span>
                         </li>							
@@ -66,7 +66,7 @@ if ( $blog_query->have_posts()) { while ( $blog_query->have_posts()): $blog_quer
                         <li class="blog-post-meta-comment">
                             <span><?php comments_popup_link( __('0 comments', 'aquilo'), __('1 comment', 'aquilo'), __('% comments', 'aquilo'), __('comments-link', 'aquilo'), __('Comments are', 'aquilo')); ?></span>
                         </li>                            
-                    <?php } ?>                                						
+                    <?php }*/ ?>                                						
                 </ul>
                 <div class="clear"></div>
             </div><!-- end .header-article-info -->        
