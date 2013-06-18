@@ -30,3 +30,11 @@ Text Domain: aquilo
 @import url("css/common-css/common-style.css");
 @import url("css/common-css/widgets.css");
 @import url("css/common-css/elements.css");
+
+.list-unordered {
+	margin-bottom: 20px;
+	padding-left: 1em;
+}
+.list-unordered {
+	list-style: circle;
+}
