@@ -35,6 +35,9 @@ Text Domain: aquilo
 	margin-bottom: 20px;
 	padding-left: 1em;
 }
-.list-unordered {
+li .list-unordered {
+	padding- bottom: 0px;
+}
+.list-unordered li {
 	list-style: circle;
 }

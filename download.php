@@ -28,4 +28,4 @@ flush();
 
 readfile($file);
 
-exit;
+exit; 
