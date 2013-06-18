@@ -43,7 +43,7 @@ if (have_posts()){ while (have_posts()) : the_post();
                 			<span><?php the_time(''.$post_meta_date_format.''); ?></span>
                     	</li>                            
                 	<?php } ?> 
-                    <?php if ($post_meta_author == 1) { ?>
+                    <?php /*if ($post_meta_author == 1) { ?>
                 		<li class="blog-post-meta-author">
                       	  <span><?php echo the_author_posts_link(); ?></span>
                     	</li>							
@@ -57,7 +57,7 @@ if (have_posts()){ while (have_posts()) : the_post();
                 		<li class="blog-post-meta-comment">
                     		<span><?php comments_popup_link( __('0 comments', 'aquilo'), __('1 comment', 'aquilo'), __('% comments', 'aquilo'), __('comments-link', 'aquilo'), __('Comments are', 'aquilo')); ?></span>
                 		</li>                            
-          			<?php } ?>
+          			<?php }*/ ?>
                                 						
 				</ul>
             	<div class="clear"></div>
