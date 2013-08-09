@@ -73,7 +73,7 @@ if ( $blog_query->have_posts()) { while ( $blog_query->have_posts()): $blog_quer
             <?php } ?>            
         </header><!-- end article header -->             
                     
-        <?php mb2_post_thumbnail($width,$height,''.$align.'',$link_to_post,$slider,$slider_count,true,false,true);?>             
+        <?php mb2_post_thumbnail('150',$height,''.$align.'',$link_to_post,$slider,$slider_count,true,false,true);?>             
                     
         <?php if ($excerpt_content_type == 1) {                 
               the_excerpt();        				
