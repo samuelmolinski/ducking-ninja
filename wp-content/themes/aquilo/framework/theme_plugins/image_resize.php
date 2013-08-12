@@ -56,9 +56,12 @@ if ( isset( $wp_version ) && version_compare( $wp_version, '3.5' ) >= 0 ) {
         
         // Check for Multisite
         if ( is_multisite() ) {
-            global $blog_id;
+
+            $blog_id = current_blog_id();
+
             $blog_details = get_blog_details( $blog_id );
-            $file_path = str_replace( $blog_details->path . 'files/', '/wp-content/blogs.dir/'. $blog_id .'/files/', $file_path );
+
+            $file_path = str_replace( 'en/', '', $file_path );
         }
 
         // Destination width and height variables
@@ -84,8 +87,10 @@ if ( isset( $wp_version ) && version_compare( $wp_version, '3.5' ) >= 0 ) {
 
             // Load Wordpress Image Editor
             $editor = wp_get_image_editor( $file_path );
+
             if ( is_wp_error( $editor ) )
                 return array( 'url' => $url, 'width' => $width, 'height' => $height );
+        
 
             // Get the original image size
             $size = $editor->get_size();

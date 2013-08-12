@@ -158,3 +158,8 @@ require_once $path_theme_widgets . 'twitter.php';
 	    return $mime_types;
 	}
 	add_filter('upload_mimes', 'my_myme_types', 1, 1);*/
+
+	function current_blog_id() {
+	    global $wpdb;
+	    return $wpdb->blogid;
+	}
